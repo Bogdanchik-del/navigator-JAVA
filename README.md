@@ -1,2 +1,2 @@
 # navigator-JAVA
-  * [Навигатор по ВВГУ](https://Bogdanchik-del.github.io/navigator-JAVA/VVSU)
+  * [Навигатор по ВВГУ](https://Bogdanchik-del.navigator-JAVA/navigator-JAVA/VVSU)
